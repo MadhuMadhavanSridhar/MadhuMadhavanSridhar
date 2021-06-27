@@ -9,5 +9,5 @@ Hello there 👋
 - 👯 I’m looking to collaborate on playing CTFs
 - 💬 Ask me about python, security concepts and software developement
 - 📫 How to reach me: [Twitter - @madhumadhavan96](https://twitter.com/madhumadhavan96)
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 100% security is a myth in this digital world 
 
